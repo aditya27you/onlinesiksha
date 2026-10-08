@@ -1,0 +1,6 @@
+{
+  "name": "Online Siksha - Higher Education Gateway & Online Degrees Portal",
+  "description": "UGC-entitled online degree programs, fee structures, 0% EMI calculators, accreditations, and admissions for India's top online universities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
